@@ -1,4 +1,4 @@
-# GraphQL + Apollo + React로 무비앱 만들어보기.
+# MovieQL-Client : GraphQL + Apollo + React로 무비앱 만들어보기.
 
 ## 1. GraphQL + Apollo 로 REST API + Redux (+ Fetch) 를 대체한다.
 
@@ -13,3 +13,13 @@ Redux 로 컴포넌트 State 관리를 해오고 서버 통신을 해왔다면, 
 > Any application that can be written in JavaScript, will eventually be written in JavaScript.
 
 > Stack Overflow : Jeff Atwood
+
+---
+
+# react-router
+
+yarn add react-router-dom --save
+
+# installing the preset package (apollo-boost) and react integration
+
+yarn add apollo-boost react-apollo graphql-tag graphql --save
