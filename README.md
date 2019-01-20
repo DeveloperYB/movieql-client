@@ -2,7 +2,7 @@
 
 ## 1. GraphQL + Apollo 로 REST API + Redux (+ Fetch) 를 대체한다.
 
-![ex_screenshot](./img/screenshot1.png)
+![ex_screenshot](./src/img/screenshot1.png)
 
 > 그림출처 : https://d2.naver.com/helloworld/2838729
 
